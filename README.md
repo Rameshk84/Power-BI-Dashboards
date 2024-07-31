@@ -1,3 +1,39 @@
+HR Dashboard Analytics for Employees
+
+![Screenshot (418)](https://github.com/user-attachments/assets/03dee5f2-7e9a-4202-b8c9-94fc64a038a2)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Domain:  Hospitality       Function: Revenue
 Problem Statement:⚡
 AtliQ Grands owns multiple five-star hotels across India. 
